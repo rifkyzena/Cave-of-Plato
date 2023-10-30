@@ -1,6 +1,6 @@
 ![2023-10-30_15-44-54](https://github.com/rifkyzena/Cave-of-Plato/assets/55536824/f8248175-8e7c-4893-83c4-3efb9e545613)
 
-[See the live demo here](https://sharemygame.com/@RifkyZena66/plato-s-cave)
+[Play the game on your browser!](https://sharemygame.com/@RifkyZena66/plato-s-cave)
 
 # Plato's Cave
 

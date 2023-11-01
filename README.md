@@ -7,6 +7,8 @@
 
 Plato's Cave is a simple platformer game in the style of Celeste and Super Meat Boy made to develop my fundamental Unity programming skills. With three challenging levels filled with hazards such as spikes, hostile slimes, and long jumps, you must rush into the exit while collecting as much coins along the way. Gravity will serve as your freedom or your tragic end. Only the bravest daredevils would be able to escape the deepest and treacherous cave of Plato!
 
+Controls: ASD to walk right and left, W to climb ladders, Space to Jump, and left click to shoot
+
 ## Things that I've learned throughout making this project:
 ![image](https://github.com/rifkyzena/Cave-of-Plato/assets/55536824/1407612e-c787-4a4b-892c-97b5719843a2)
 - Slicing Sprite Sheets, Layering Unity Tilemap, figuring out how to use Unity Rule Tiles and adding Composite Collider for Tilemaps

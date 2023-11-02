@@ -31,6 +31,7 @@ https://docs.unity3d.com/Packages/com.unity.cinemachine@2.3/manual/CinemachineVi
 
 - Instantiating projectiles and configure projectile behavior
 ![image](https://github.com/rifkyzena/Cave-of-Plato/assets/55536824/5ca82a0f-fd0a-4cbd-a7af-87d9c52e1b0b)
+https://docs.unity3d.com/ScriptReference/Object.Instantiate.html
 
 - Game Sessions, Level Design, Persisting Score, and Scene Management
 ![image](https://github.com/rifkyzena/Cave-of-Plato/assets/55536824/f52e613c-afe9-4851-be24-d1915f123f65)

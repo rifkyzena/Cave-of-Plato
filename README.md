@@ -10,8 +10,9 @@ Plato's Cave is a simple platformer game in the style of Celeste and Super Meat 
 Controls: ASD to walk right and left, W to climb ladders, Space to Jump, and left click to shoot
 
 ## Things that I've learned throughout making this project:
-![image](https://github.com/rifkyzena/Cave-of-Plato/assets/55536824/1407612e-c787-4a4b-892c-97b5719843a2)
+
 - Slicing Sprite Sheets, Layering Unity Tilemap, figuring out how to use Unity Rule Tiles and adding Composite Collider for Tilemaps
+![image](https://github.com/rifkyzena/Cave-of-Plato/assets/55536824/1407612e-c787-4a4b-892c-97b5719843a2)
 https://docs.unity3d.com/Packages/com.unity.2d.tilemap.extras@1.6/manual/RuleTile.html
 https://docs.unity3d.com/ScriptReference/Collider2D.IsTouchingLayers.html
 https://docs.unity3d.com/ScriptReference/Collider2D.OnTriggerExit2D.html
